@@ -1,6 +1,6 @@
 <h1 align="center">G'day 👋, I'm Martin.</h1>
 
-I'm a <a href="https://www.youtube.com/ItsMCBHere" target="blank">YouTube content creator</a>, <a href="https://southhollow.net/" target="blank">Minecraft server owner</a>, and plugin developer.
+I'm a <a href="https://www.youtube.com/ItsMCBHere" target="blank">YouTube content creator</a>, <a href="https://southhollow.net/" target="blank">Minecraft server owner</a>, and Minecraft plugin developer.
 
 Most of my current work is done privately for SouthHollow; however, I hope to create some public OSS soon. Feel free to check out my code and make changes that you see fit 🙂
 

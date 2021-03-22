@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">G'day 👋, I'm Martin.</h1>
 
-<!--
-**ItsMCB/ItsMCB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a <a href="https://www.youtube.com/ItsMCBHere" target="blank">YouTube content creator</a>, <a href="https://southhollow.net/" target="blank">Minecraft server owner</a>, and plugin developer.
 
-Here are some ideas to get you started:
+Most of my current work is done privately for SouthHollow; however, I hope to create some public OSS soon. Feel free to check out my code and make changes that you see fit 🙂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Extra Information</h2>
+
+- 🔭 I’m currently working on SouthHollow's Creative server.
+- 🌱 I’m currently learning Java
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My favorite color is orange
+
+
+<h2>Contact Information</h2>
+- Discord: ItsMCB#8964

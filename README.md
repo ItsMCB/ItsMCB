@@ -21,11 +21,12 @@ My ultimate goal is to find a job in a technology field that I like. Maybe it'll
   <li>Chat Bots</li>
   <li>Web Apps</li>
   <li>Minecraft Plugins</li>
+  <li>APIs</li>
 </ol>
 
 <h2>Extra Information</h2>
 
-- 🔭 I’m currently working on SouthHollow's Creative server.
+- 🔭 I’m currently working on SouthHollow's TNT Run server.
 - 🌱 I’m currently learning Java and Node.js
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite color is orange

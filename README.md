@@ -25,6 +25,7 @@ My current goal is to make information reguarding the more technical side of Min
   <li>APIs</li>
   <li>Linux</li>
   <li>Cybser Security</li>
+  <li>Bug Hunting / QA Testing</li>
 </ul>
 
 <h2>Extra Information</h2>

@@ -2,32 +2,35 @@
 
 I'm a <a href="https://www.youtube.com/ItsMCBHere" target="blank">YouTube content creator</a>, <a href="https://southhollow.net/" target="blank">Minecraft server owner</a>, and developer of all sorts of things.
 
-My ultimate goal is to find a job in a technology field that I like. Maybe it'll be back-end or front-end development, maybe full-stack, or it could be in systems administration. I'm working on trying out new things while balancing my school and social life along with my responsibilities at SouthHollow and on my YouTube channel.
+My current goal is to make information reguarding the more technical side of Minecraft easy to understand and accessible. Help me do so by checking out my [Community Guides](https://github.com/Vexelosity/CommunityGuides).
 
 <h2>Coding Languages I've Worked With Before 💻</h2>
 <ol>
   <li>HTML</li>
-  <li>Javascript</li>
+  <li>Javascript 💖</li>
   <li>CSS</li>
   <li>Python</li>
   <li>Bash</li>
-  <li>Java</li>
-  <li>Node.js</li>
+  <li>Java 💖</li>
 </ol> 
 
 <h2>My Interests 💫</h2>
-<ol>
+<ul>
   <li>Tensorflow</li>
   <li>Chat Bots</li>
   <li>Web Apps</li>
+  <li>Minecraft Servers</li>
   <li>Minecraft Plugins</li>
+  <li>Discord Bots</li>
   <li>APIs</li>
-</ol>
+  <li>Linux</li>
+  <li>Cybser Security</li>
+</ul>
 
 <h2>Extra Information</h2>
 
-- 🔭 I’m currently working on SouthHollow's TNT Run server.
-- 🌱 I’m currently learning Java and Node.js
+- 🔭 I'm a co-owner of the SouthHollow Minecraft Server Network
+- 🌱 I’m currently learning Java and Javascript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite color is orange
 - 💡 People who use light mode on Discord worry me.

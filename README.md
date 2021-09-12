@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.imgur.com/idql3fs.png" style="width:15%;"><br>G'day 👋, I'm Martin.</h1>
+<h1 align="center">G'day 👋, I'm Martin.</h1>
 
 I'm a <a href="https://www.youtube.com/ItsMCBHere" target="blank">YouTube content creator</a>, <a href="https://southhollow.net/" target="blank">Minecraft server owner</a>, and developer of all sorts of things.
 

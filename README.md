@@ -15,4 +15,4 @@ My current goal is to make information reguarding the more technical side of Min
 | :--- | :--- | :--- | :--- | :--- | :--- |
 
 <h2>Contact Information</h2>
-<img src="https://shields.io/badge/style-ItsMCB%238964-lightgray?logo=discord&style=for-the-badge">
+<img src="https://shields.io/badge/Discord-ItsMCB%238964-lightgray?logo=discord&style=for-the-badge">

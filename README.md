@@ -24,7 +24,7 @@ I create videos to entertain and teach others about Linux and how to administer 
 
 I maintain VexelCore: multiple APIs and a framework designed to simplify the development of Minecraft plugins and their workflows.
 
-<a href="https://discord.gg/QW2m6bYG4S">**4) Community Connections**</a>
+<a href="https://discord.gg/QW2m6bYG4S">**4) Discord Community**</a>
 
 I own and maintain a Discord centered around the community I've built from my various projects.
 
@@ -38,5 +38,6 @@ The following are technologies I've used in projects:
 ## Contact
 The following are ways you can contact me:
 
-<a href="https://twitter.com/itsmcbhere"><img src="https://shields.io/badge/Twitter-ItsMCBHere-black?logo=twitter&style=flat"></a>
+<a href="https://fosstodon.org/@itsmcb"><img src="https://shields.io/badge/Mastodon-@itsmcb@fosstodon.org-black?logo=Mastodon&style=flat"></a>
 <a href="https://discord.gg/QW2m6bYG4S"><img src="https://shields.io/badge/Discord-ItsMCB%238964-black?logo=discord&style=flat"></a>
+<a href="https://twitter.com/itsmcbhere"><img src="https://shields.io/badge/Twitter-ItsMCBHere-black?logo=twitter&style=flat"></a>

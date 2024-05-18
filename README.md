@@ -36,4 +36,3 @@ The following are ways you can contact me:
 
 <a href="https://fosstodon.org/@itsmcb"><img src="https://shields.io/badge/Mastodon-@itsmcb@fosstodon.org-black?logo=Mastodon&style=flat"></a>
 <a href="https://discord.gg/QW2m6bYG4S"><img src="https://shields.io/badge/Discord-ItsMCB%238964-black?logo=discord&style=flat"></a>
-<a href="https://twitter.com/itsmcbhere"><img src="https://shields.io/badge/Twitter-ItsMCBHere-black?logo=twitter&style=flat"></a>

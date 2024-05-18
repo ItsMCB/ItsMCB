@@ -9,24 +9,25 @@
 
 <h1 align="center">Hello 👋, I'm Martin.</h1>
 
-I'm a technology enthusiast who loves creating valuable things. Most of my work is open source with a permissive license attached because open collaboration is critical for improving software and maintaining the rights of its users.
+Hello! I'm an ethical technology advocate. I'm currently studying Information Systems and Analytics in Chicago. My goal with Libre Galaxy is to establish a community that uses, contributes to, and promotes ethical technology. I've been using Linux for my servers since 2020 and for my desktop since 2021. I've been researching technology policy and open-source software since 2021.
+
+Feel free to reach out! :)
 
 ## Projects
-<a href="https://southhollow.net/">**1) SouthHollow**</a>
+<a href="https://libregalaxy.org/">**1) Libre Galaxy**</a>
+Making ethical technology accessible to all. A big WIP.
+
+<a href="https://southhollow.net/">**2) SouthHollow**</a>
 
 I'm a co-owner, backend administrator, server creator and manager, and developer for the SouthHollow Minecraft server network.
 
-<a href="https://www.youtube.com/c/ItsMCBHere/">**2) ItsMCB YouTube Channel**</a>
+<a href="https://www.youtube.com/c/ItsMCBHere/">**3) My YouTube Channel**</a>
 
 I create videos to entertain and teach others about Linux and how to administer Minecraft servers.
 
-<a href="https://github.com/ItsMCB/VexelCore">**3) VexelCore**</a>
+<a href="https://github.com/ItsMCB/VexelCore">**4) VexelCore**</a>
 
-I maintain VexelCore: multiple APIs and a framework designed to simplify the development of Minecraft plugins and their workflows.
-
-<a href="https://discord.gg/QW2m6bYG4S">**4) Discord Community**</a>
-
-I own and maintain a Discord centered around the community I've built from my various projects.
+I maintain VexelCore: multiple APIs and a framework designed to simplify the development of Minecraft plugins and their workflows. A big WIP.
 
 ## Technologies I've Used
 The following are technologies I've used in projects:

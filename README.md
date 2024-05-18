@@ -9,12 +9,13 @@
 
 <h1 align="center">Hello 👋, I'm Martin.</h1>
 
-Hello! I'm an ethical technology advocate. I'm currently studying Information Systems and Analytics in Chicago. My goal with Libre Galaxy is to establish a community that uses, contributes to, and promotes ethical technology. I've been using Linux for my servers since 2020 and for my desktop since 2021. I've been researching technology policy and open-source software since 2021.
+I'm an ethical technology advocate. I'm currently studying Information Systems and Analytics in Chicago. My hobby focus is on my website/community called Libre Galaxy. It's goal is to establish a community that uses, contributes to, and promotes ethical technology. I've been using Linux for my servers since 2020 and for my desktop since 2021. I've been researching technology policy and open-source software since 2021.
 
 Feel free to reach out! :)
 
 ## Projects
 <a href="https://libregalaxy.org/">**1) Libre Galaxy**</a>
+
 Making ethical technology accessible to all. A big WIP.
 
 <a href="https://southhollow.net/">**2) SouthHollow**</a>

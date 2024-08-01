@@ -12,24 +12,7 @@ I'm an ethical technology advocate. I'm currently studying Information Systems a
 
 Feel free to reach out! :)
 
-## Projects
-<a href="https://libregalaxy.org/">**1) Libre Galaxy**</a>
-
-I'm the lead of Libre Galaxy. Its goal is to make ethical technology accessible to all.
-
-<a href="https://southhollow.net/">**2) SouthHollow**</a>
-
-I'm a co-owner, developer, and co-infrastructure manager for this wonderful Minecraft server network.
-
-<a href="https://www.youtube.com/c/ItsMCBHere/">**3) My YouTube Channel**</a>
-
-I create videos to entertain and teach about Linux and Minecraft server administration.
-
-<a href="https://github.com/ItsMCB/VexelCore">**4) VexelCore**</a>
-
-I maintain VexelCore: multiple APIs and a framework designed to simplify the development of Minecraft plugins and their workflows.
-It's primarily a keystone for my FOSS plugins that I use on my servers.
-
+Learn more [here](https://libregalaxy.org/contributors/martin).
 
 ## Contact
 The following are ways you can contact me:

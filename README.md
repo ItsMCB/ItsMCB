@@ -8,14 +8,12 @@
 
 <h1 align="center">Hello 👋, I'm Martin.</h1>
 
-I'm an ethical technology advocate. I'm currently studying Information Systems and Analytics in Chicago.
+I'm a student studying Information Systems and Analytics in Chicago. My goal is to connect people with ethical technologies that fit their needs and improve their lives.
 
-Feel free to reach out! :)
-
-Learn more [here](https://libregalaxy.org/contributors/martin).
+More about me [here](https://libregalaxy.org/contributors/martin).
 
 ## Contact
-The following are ways you can contact me:
+I'd love to talk with you! The following are non-email ways you can reach me:
 
 <a href="https://fosstodon.org/@itsmcb"><img src="https://shields.io/badge/Mastodon-@itsmcb@fosstodon.org-black?logo=Mastodon&style=flat"></a>
-<a href="https://discord.gg/QW2m6bYG4S"><img src="https://shields.io/badge/Discord-ItsMCB%238964-black?logo=discord&style=flat"></a>
+<a href="https://discord.gg/QW2m6bYG4S"><img src="https://shields.io/badge/Discord-ItsMCB-black?logo=discord&style=flat"></a>
